@@ -270,4 +270,4 @@ This repository serves as the official landing page for Hamachi. The software is
 **Get the most recent version of Hamachi today!**
 
 ---
-**Last updated:** 2026-10-07 17:10:25 UTC
+**Last updated:** 2026-10-07 22:34:13 UTC
